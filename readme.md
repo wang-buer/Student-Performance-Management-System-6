@@ -12,7 +12,11 @@
 
 学生：选课、课表、成绩查询等
 
+## 获取方式
 
+扫描下方，回复关键词  ：**成绩** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 2、项目技术
 
 后端框架： Servlet、mvc模式
